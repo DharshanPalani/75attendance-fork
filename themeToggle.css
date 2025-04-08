@@ -9,6 +9,7 @@
     color: inherit;
     padding: 0.25rem 0.5rem;
     transition: opacity 0.2 ease;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 }
 
 #theme-toggle:hover {
