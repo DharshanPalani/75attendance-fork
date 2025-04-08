@@ -31,6 +31,15 @@ body.dark strong {
     color: #cccc;
 }
 
+body.dark .percentage-select {
+    color: #ccc;
+}
+
+body.dark .percentage-select option {
+    background-color: #ccc;
+    color: #121212;
+}
+
 body.dark .input-container label {
     background-color: #1e1e1e;
     color: #ccc;
